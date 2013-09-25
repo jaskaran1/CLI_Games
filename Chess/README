@@ -1,0 +1,6 @@
+2 player chess-
+Features:
+1)Asks for the player names
+2)Displays the chessboard after every move
+3)Validates position and moves of chesspieces
+4)Shows checkmate condition.
