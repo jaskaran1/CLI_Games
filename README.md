@@ -1,1 +1,1 @@
-readme
+Crude implementation of games
